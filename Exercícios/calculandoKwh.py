@@ -22,3 +22,4 @@ elif (tipoResidência == "3") and (consumoKwh > 5000):
     print("Você terá que pagar o valor de R$ %d" %(totalPagarConsumo))
 else:
     print("Não foi possível calcular, tente novamente.")
+

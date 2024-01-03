@@ -14,6 +14,3 @@ elif (parcelas > porcentagem30SalarioCliente):
 else:
     print("Não foi possível, verifique os valores")
 
-
-
-

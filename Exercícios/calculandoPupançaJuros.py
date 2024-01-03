@@ -1,6 +1,6 @@
 depositoPoupanca = int(input("Qual foi o valor de depósito? "))
 taxaJurosPoupanca = int(input("Qual a taxa de juros da poupança? "))
-
+ 
 acumuloPoupanca = 0
 i = 1
 while (i <= 24):

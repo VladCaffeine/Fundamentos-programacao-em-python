@@ -19,3 +19,5 @@ while (valorDivida > 0):
         print("Divida paga, você ficou com saldo de %d" %(convertendoSaldoNegativo))
     periodoPago += 1
     acumuloDivida += valorDivida
+
+

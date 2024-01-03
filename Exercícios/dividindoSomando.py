@@ -9,3 +9,4 @@ while (subtraindo > 1 ):
 
 print(subtraindo)
 print(quociente)
+
